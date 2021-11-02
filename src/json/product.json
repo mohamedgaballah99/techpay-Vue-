@@ -1,0 +1,86 @@
+[
+    {
+        "id":1,
+        "name":"laptop",
+        "price":"34$",
+        "desc":"some quick example text to build on the card title and make up the bulk of the card's contant",
+        "img":"11.jpg"
+    },
+    {
+        "id":2,
+        "name":"iphone",
+        "price":"90$",
+        "desc":"some quick example text to build on the card title and make up the bulk of the card's contant",
+        "img":"6.jpg"
+    },
+    {
+        "id":3,
+        "name":"headphone",
+        "price":"19$",
+        "desc":"some quick example text to build on the card title and make up the bulk of the card's contant",
+        "img":"2.jpg"
+    },
+    {
+        "id":4,
+        "name":"iphone",
+        "price":"75$",
+        "desc":"some quick example text to build on the card title and make up the bulk of the card's contant",
+        "img":"3.jpg"
+    },
+    {
+        "id":5,
+        "name":"laptop",
+        "price":"56$",
+        "desc":"some quick example text to build on the card title and make up the bulk of the card's contant",
+        "img":"55.jpg"
+    },
+    {
+        "id":6,
+        "name":"headphone",
+        "price":"79$",
+        "desc":"some quick example text to build on the card title and make up the bulk of the card's contant",
+        "img":"4.jpg"
+    },
+    {
+        "id":7,
+        "name":"laptop",
+        "price":"54$",
+        "desc":"some quick example text to build on the card title and make up the bulk of the card's contant",
+        "img":"22.jpg"
+    },
+    {
+        "id":8,
+        "name":"iphone",
+        "price":"87$",
+        "desc":"some quick example text to build on the card title and make up the bulk of the card's contant",
+        "img":"7.jpg"
+    },
+    {
+        "id":9,
+        "name":"laptop",
+        "price":"122$",
+        "desc":"some quick example text to build on the card title and make up the bulk of the card's contant",
+        "img":"11.jpg"
+    },
+    {
+        "id":10,
+        "name":"iphone",
+        "price":"12$",
+        "desc":"some quick example text to build on the card title and make up the bulk of the card's contant",
+        "img":"6.jpg"
+    },
+    {
+        "id":11,
+        "name":"headphone",
+        "price":"76$",
+        "desc":"some quick example text to build on the card title and make up the bulk of the card's contant",
+        "img":"2.jpg"
+    },
+    {
+        "id":12,
+        "name":"iphone",
+        "price":"56$",
+        "desc":"some quick example text to build on the card title and make up the bulk of the card's contant",
+        "img":"3.jpg"
+    }
+]
